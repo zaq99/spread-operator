@@ -52,3 +52,5 @@ console.log(allFavorites);
 [ 'Seafood', 'Salad', 'Nugget', 'Soup', 'Cake', 'Pie', 'Donut' ]
 ---------------------------------------------------
 ```
+
+selain array, Spread operator juga bisa digunakan untuk menggabungkan object
